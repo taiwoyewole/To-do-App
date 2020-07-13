@@ -1,5 +1,7 @@
 # To-do-App
 
-A to-do app built using vanilla JavaScript.
+A to-do app built using JavaScript.
 
-https://taiwoyewole.github.io/To-do-App/
+A project by @sheCodeAfrica Mentoring Program - Cohort2
+
+Link to Live Site: https://taiwoyewole.github.io/To-do-App/
